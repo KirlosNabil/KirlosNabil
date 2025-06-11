@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋, I'm Kirlos Nabil
 
-<!--
-**KirlosNabil/KirlosNabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Senior Computer Science Student** | 🧠 **Software Engineer**  
+🚀 Passionate about learning new technologies.
 
-Here are some ideas to get you started:
+🔭 Currently building and refining personal side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Exploring advanced topics in backend engineering, data structures, and algorithms  
+
+👯 Open to collaborating on open-source projects  
+
+🤝 Interested in backend systems, AI, and machine learning projects 
+
+💬 Ask me anything tech-related — always happy to discuss and help  
+
+📫 How to reach me: kirlosnabil956@gmail.com
+
+Languages and Tools:  
+C++ C# Java Python JavaScript
+
+Connect with me:  
+[LinkedIn]([https://www.linkedin.com/in/kirlosnabil](https://www.linkedin.com/in/kirlos-nabil-b4b44422b/))  
+[Codeforces]([https://codeforces.com/profile/KirlosNabil](https://codeforces.com/profile/Kirlos_Nabil)) 
