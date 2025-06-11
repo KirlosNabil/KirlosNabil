@@ -10,7 +10,8 @@
 - 🌱 Exploring advanced topics in backend engineering, data structures, and algorithms  
 - 👯 Open to collaborating on open-source projects  
 - 🤝 Interested in backend systems, AI, and machine learning projects  
-- 💬 Ask me anything tech-related — always happy to discuss and help  
+- 💬 Ask me anything tech-related — always happy to discuss and help
+- 📫 How to reach me: kirlosnabil956@gmail.com
 
 ---
 
