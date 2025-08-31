@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kirlos Nabil</h1>
-<h3 align="center">🎓 Senior Computer Science Student | 🧠 Software Engineer</h3>
+<h3 align="center">🎓 Fresh Computer Science Graduate | 🧠 Software Engineer</h3>
 <p align="center">🚀 Passionate about learning new technologies</p>
 
 <p align="center">
